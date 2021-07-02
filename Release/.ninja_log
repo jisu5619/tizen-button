@@ -1,0 +1,22 @@
+# ninja log v5
+1	1111	0	src/resource/resource_sw_sensor.o	353e61e03dd8bb1b
+118	1191	0	src/resource.o	5e3cc38ea467d404
+86	1291	0	src/sensor-data.o	addee7de43bcf7c5
+56	1308	0	src/resource/resource_illuminance_sensor.o	80f2a2c58bd8eca2
+154	1348	0	src/resource/resource_led.o	8abe4353673c1fb7
+29	2501	0	src/ledsw.o	24a98f22e3d1267a
+2509	3588	0	ledsw	cc66473191000450
+36	1038	0	src/resource.o	5e3cc38ea467d404
+153	1146	0	src/resource/resource_sw_sensor.o	353e61e03dd8bb1b
+93	1196	0	src/sensor-data.o	addee7de43bcf7c5
+4	1199	0	src/resource/resource_led.o	8abe4353673c1fb7
+65	1210	0	src/resource/resource_illuminance_sensor.o	80f2a2c58bd8eca2
+123	2409	0	src/ledsw.o	24a98f22e3d1267a
+2410	3452	0	ledsw	cc66473191000450
+199	2368	0	src/resource.o	5e3cc38ea467d404
+59	2396	0	src/resource/resource_sw_sensor.o	353e61e03dd8bb1b
+113	2454	0	src/sensor-data.o	addee7de43bcf7c5
+249	2552	0	src/resource/resource_illuminance_sensor.o	80f2a2c58bd8eca2
+8	2571	0	src/resource/resource_led.o	8abe4353673c1fb7
+150	4372	0	src/ledsw.o	24a98f22e3d1267a
+4373	5949	0	ledsw	cc66473191000450
